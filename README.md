@@ -67,7 +67,7 @@ Select `Notebook instances`.
 ![SageMaker Console](img/aws-sagemaker-dashboard.png).
 
 ## 4. Start the Jupyter Notebook
-You should see a ml.t2.large Notebook instance in status `InService`.
+You should see a Notebook instance in status `InService`.
 
 Select `Open Jupyter`. 
 
