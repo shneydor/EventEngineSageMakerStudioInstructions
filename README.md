@@ -52,25 +52,5 @@ Double-check that your account name is similar to `TeamRole/MasterKey` as follow
 
 If not, please logout of your AWS Console in all browser tabs and re-run the steps above!
 
-## 3. Launch a SageMaker Notebook Instance
-
-Open the [AWS Management Console](https://console.aws.amazon.com/console/home)
-
-**Note:** This workshop has been tested on the US East (N. Virginia) (us-east-1) region. Make sure that you see **N.Virginia** on the top right hand corner of your AWS Management Console. If you see a different region, click the dropdown menu and select US East (N. Virginia).
-
-In the AWS Console search bar, type `SageMaker` and select `Amazon SageMaker` to open the service console.
-
-![SageMaker Console](img/setup_aws_console.png). 
-
-Select `Notebook instances`.
-
-![SageMaker Console](img/aws-sagemaker-dashboard.png).
-
-## 4. Start the Jupyter Notebook
-You should see a Notebook instance in status `InService`.
-
-Select `Open Jupyter`. 
-
-![Start Jupyter](img/start_jupyter.png)
-
-## 5. Start the Workshop!
+## 3. Start the Workshop!
+https://github.com/aws-samples/amazon-sagemaker-build-train-deploy/tree/master/01_configure_sagemaker_studio
